@@ -1,0 +1,171 @@
+.p1{
+
+display: inline;
+color: ;
+width: ;
+padding:;
+border: 5px solid gray;
+box-sizing: border-box;
+margin: 0
+position: absolute;
+
+}
+
+.img1 {
+box-sizing: border-box;
+display: ;
+color: ;
+height: 100px;
+width: 100px;
+display: inline-block;
+border: 5px solid gray;
+margin: 0
+position: absolute;
+}
+
+
+
+
+.p2{
+
+display: inline-block;
+color: ;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+box-sizing: border-box ;
+margin: ;
+position: absolute;
+bottom: 450px;
+left: 20px;
+}
+
+.img2 {
+box-sizing: content-box;
+display: inline;
+color: ;
+height: 120px;
+width: 120px;
+position: absolute;
+bottom: 480px; left: 345px;
+border: 5px solid gray;
+margin: 20;
+
+}
+
+.img3 {
+box-sizing: content-box;
+display: inline;
+color: ;
+height: 120px;
+width: 120px;
+position: absolute;;
+bottom: 480px; left: 435px;
+border: 5px solid gray;
+margin: 20;
+
+}
+
+.img4 {
+box-sizing: ;
+
+color: ;
+position: absolute;
+height: 330px;
+width: 330px;
+border: 5px solid gray;
+margin: ;
+bottom: 0px ; 
+right: 1000px ;
+z-index: -5;
+
+
+
+
+}
+
+.p3{
+
+display: inline-block;
+color: ;
+position: absolute;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+box-sizing: border-box ;
+margin: ;
+bottom: 0px;
+z-index: -2;
+
+}
+
+.p4{
+
+display: inline-block;
+color: ;
+position: absolute;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+box-sizing: border-box ;
+margin: px;
+bottom: 100px
+left: 30px;
+
+}
+
+
+.p5{
+
+display: block;
+color: ;
+position: absolute;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+box-sizing: border-box ;
+margin: 20px;
+bottom: -75px;
+z-index: -3;
+
+
+
+
+}
+
+
+.p6{
+
+display: block;
+color: ;
+position: absolute;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+box-sizing: border-box ;
+margin: 20px;
+bottom: -10px;
+left: -50px;
+z-index: -1;
+
+}
+
+
+.p7{
+
+
+    height: 100px;
+    box-sizing: content-box;
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid green;
+    
+    
+
+}
+section{
+display: inline-block;
+}
